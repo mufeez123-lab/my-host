@@ -1,0 +1,16 @@
+[
+  {
+    "project": "my-app",
+    "domain": "my-app.localhost",
+    "port": 4008,
+    "containerId": "App running on http://localhost:4008",
+    "status": "running"
+  },
+  {
+    "project": "my-app",
+    "domain": "my-app.localhost",
+    "port": 4010,
+    "containerId": "App running on http://localhost:4010",
+    "status": "running"
+  }
+]
